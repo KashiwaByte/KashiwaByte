@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI（人工智能专业）
 - 🤔 I’m looking for help with  AI master
 - 📫 How to reach me: qq 471314513
+-  My blog:https://www.kashiwabyte.tech
 -->
