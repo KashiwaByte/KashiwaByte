@@ -1,5 +1,5 @@
 ## About Me 👋
-- 🔭 I’m currently working on Xidian University
+- 🔭 I’m currently studying on Xidian University
 - 🌱 I’m currently learning AI
 - 🤔 I’m looking for help with  AI master
 - 📫 How to reach me: kashiwabyte@foxmail.com
@@ -7,11 +7,17 @@
 
 ## Open Source Experience 👯
 
-- [Swanlab](https://github.com/SwanHubX/SwanLab) : A tool to track and visualize all the pieces of your machine learning pipeline.
+- [swanlab](https://github.com/SwanHubX/SwanLab) : A tool to track and visualize all the pieces of your machine learning pipeline.
+- [self-llm](https://github.com/datawhalechina/self-llm) : An open source large model deployment tutorial of Linux-based environment.
 - [hugging-sd](https://github.com/datawhalechina/hugging-sd) : A chinese tutorial of Stable Difussion for Developers and Learners.
 
 ## Competition 🏆
 - [星火杯认知大模型场景创新赛](http://challenge.xfyun.cn/xinghuo)：LLM competition of iFLYTEK, **Top 5**
+
+
+## Academic Experience  📖
+- [Member of the evaluation committee](http://www.fudan-disc.com/sharedtask/AIDebater24/organizer.html), CCAC 2024
+
 
 <!--
 **KashiwaByte/KashiwaByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
