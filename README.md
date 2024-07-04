@@ -1,7 +1,7 @@
 ## About Me 👋
 - 🔭 I’m currently studying on Xidian University
 - 🌱 I’m currently learning AI
-- 🤔 I’m looking for help with  AI master
+- 🤔 I’m looking for help with  AI master or Ph.D. 
 - 📫 How to reach me: kashiwabyte@foxmail.com
 - 🎉 My blog:https://www.kashiwabyte.tech
 
