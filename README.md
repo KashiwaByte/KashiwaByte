@@ -1,3 +1,4 @@
+# 在伟大的时代，和优秀的人，做有价值的事 Dream big，Aim High
 ## About Me 👋
 - 🔭 I’m currently studying on Xidian University
 - 🤔 I’m looking for help with AI Ph.D. 
