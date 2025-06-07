@@ -30,4 +30,3 @@ Here are some ideas to get you started:
 -  My blog:https://www.kashiwabyte.tech
 -->
 
-![Metrics](/github-metrics.svg)
