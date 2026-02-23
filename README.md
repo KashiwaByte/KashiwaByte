@@ -1,8 +1,13 @@
 ## About Me 👋
-- 🔭 I’m currently studying on Xidian University
-- 🤔 I’m looking for help with AI Ph.D. 
-- 📫 How to reach me: kashiwabyte@foxmail.com
-- 🎉 My blog:https://www.kashiwabyte.tech
+
+
+- 🎓 Graduated from **Xidian University**
+- 🚀 Founder at Low Entropy Tech 
+- 🔨 Currently building **AirJelly** - AI-powered context management for super individuals
+- 💡 Focused on AI Agents, Context Engineering, and Developer Tools
+- 📫 Reach me: kashiwabyte@foxmail.com
+```
+
 
 ## Open Source Experience 👯
 
