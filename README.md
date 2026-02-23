@@ -6,7 +6,7 @@
 - 🔨 Currently building **AirJelly** - AI-powered context management for super individuals
 - 💡 Focused on AI Agents, Context Engineering, and Developer Tools
 - 📫 Reach me: kashiwabyte@foxmail.com
-```
+
 
 
 ## Open Source Experience 👯
